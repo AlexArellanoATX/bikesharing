@@ -5,7 +5,11 @@ This analysis project was undertaken to look at the potential of starting a bike
 
 
 ## Results: 
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+Using the Citibike data available for August of 2019, we highlight some interesting insight into bike sharing services. Using Tableau we built visualization that show: 
+* Bike usage: the length of time bikes were checked out
+* Gender breakouts
+* Hours of the day and days of the week bike usage 
+* Most used bike station locations across the Citibike coverage area
 
 
 ![Checkout_Times_Users](./additional_resources/Checkout_Times_Users.png) 
@@ -13,19 +17,19 @@ Here we see the length of time that Citibikes are checked out by all users. Chec
 
 
 ![Checkout_Times_Gender](./additional_resources/Checkout_Times_Gender.png) 
-Looking at differences in the Gender of users using Citibikes, we see significantly more Males than Females, although there is a similar pattern between the genders.  
+Looking at differences in the Gender of users using Citibikes, we see significantly more Males than Females using bikes in August. The highest numbers of bikerides have durations between 3 and 7 hours- a pattern that holds acrosss genders albeit with a difference in magnitude.  
 
 
 ![Trips_Weekday_EachHour](./additional_resources/Trips_Weekday_EachHour.png) 
-There is a description of the results for each visualization (7 pt)
+This heatmap really emphasizes the heavier bike use hours, with work schedules likely contributing to a morning surge in trips, really taking off at 6am and slowing some by 10am. The after-work surge starts picking up at 4pm and tapers by 9pm. The highest trip counts occur in the afternoon/evenings during the week. On weekends, bike usage is spread out more evenly although at lower magnitudes than peak-weekday hours.
 
 
 ![Trips_byGender](./additional_resources/Trips_byGender.png) 
-There is a description of the results for each visualization (7 pt)
+We see a similar pattern of bike usage between genders and we can see the higher male usage in the darker shades. Interestingly, Wednesday afternoon/evenings are not as popular and Thursdays evenings have the most trips.
 
 
 ![UserTrips_Gender_Weekday](./additional_resources/UserTrips_Gender_Weekday.png) 
-There is a description of the results for each visualization (7 pt)
+More men are subscribers in general, and we again see that Thursdays are the highest trip weekday.
 
 
 ![August_Peak_Hours](./additional_resources/August_Peak_Hours.png) 
@@ -37,7 +41,7 @@ This visualization shows that the peak Citibike usage hours are between 8am and 
 Here we can see the starting locations for all of the August bikesahre rides taken in New York. The more popular start locations are highlited by darker and larger circles on the map of New York City. 
 
 ## Summary: 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+The key takeaways from this analysis are that most bikesharing trips occur on weekdays, with concentrations around work schedules. Bikeshare use is spread out more evenly during the day on weekends.  Bike repair and maintenance should probably be done when usage is lowest- late nights up until dawn. More bike users are male and there are more subscribers than non-subscribed customers.
 
-LINK to TABLEAU PUBLIC STORY
+### LINK to TABLEAU PUBLIC STORY
 [link to dashboard](https://public.tableau.com/profile/alex.arellano7163#!/vizhome/NYCCitibikeAnalysisChallenge14/NYCCitibikeanalysis)
