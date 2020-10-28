@@ -1,6 +1,6 @@
-# bikesharing
+# Bikesharing Analysis
 
-## Overview of the analysis: 
+## Overview: 
 This analysis project was undertaken to look at the potential of starting a bikesharing service in Des Moines, based on the Citibike bikesharing operation in New York City. We look at several aspects of the Citibike program, starting with a dataset containing over 2.3 million data points for bikeshare rides in New York during August of 2019. We use Tableau Public, Jupyter Notebook and VS Code to pull, transform and analyze the data and create several visualizations to help inform potential investors in this project.
 
 
@@ -11,7 +11,7 @@ Using the Citibike data available for August of 2019, we highlight some interest
 * Hours of the day and days of the week bike usage 
 * Most used bike station locations across the Citibike coverage area
 
-
+### Visualizations: 
 ![Checkout_Times_Users](./additional_resources/Checkout_Times_Users.png) 
 Here we see the length of time that Citibikes are checked out by all users. Checked out times between 4 and 6 hours have the highest number of Bikes in use.
 
@@ -43,5 +43,5 @@ Here we can see the starting locations for all of the August bikesahre rides tak
 ## Summary: 
 The key takeaways from this analysis are that most bikesharing trips occur on weekdays, with concentrations around work schedules. Bikeshare use is spread out more evenly during the day on weekends.  Bike repair and maintenance should probably be done when usage is lowest- late nights up until dawn. More bike users are male and there are more subscribers than non-subscribed customers.
 
-### LINK to TABLEAU PUBLIC STORY
-[link to dashboard](https://public.tableau.com/profile/alex.arellano7163#!/vizhome/NYCCitibikeAnalysisChallenge14/NYCCitibikeanalysis)
+### LINK to TABLEAU PUBLIC STORY:
+[click here to see and interact with our Story on Tableau Public](https://public.tableau.com/profile/alex.arellano7163#!/vizhome/NYCCitibikeAnalysisChallenge14/NYCCitibikeanalysis)
