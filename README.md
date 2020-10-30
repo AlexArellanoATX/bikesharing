@@ -44,4 +44,4 @@ Here we can see the starting locations for all of the August bikesahre rides tak
 The key takeaways from this analysis are that most bikesharing trips occur on weekdays, with concentrations around work schedules. Bikeshare use is spread out more evenly during the day on weekends.  Bike repair and maintenance should probably be done when usage is lowest- late nights up until dawn. More bike users are male and there are more subscribers than non-subscribed customers.
 
 ### LINK to TABLEAU PUBLIC STORY:
-[click here to see and interact with our Story on Tableau Public](https://public.tableau.com/profile/alex.arellano7163#!/vizhome/NYCCitibikeAnalysisChallenge14/NYCCitibikeanalysis)
+[click here to see and interact with our Story on Tableau Public](https://public.tableau.com/profile/alex.arellano7163#!/vizhome/NYCCitibikeAnalysisChallenge14/NYCCitibikeAnalysisStory?publish=yes)
